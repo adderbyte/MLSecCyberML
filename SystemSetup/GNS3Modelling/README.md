@@ -2,7 +2,8 @@ GNS3 Modelling for scenario configuration and analysis
 
 The installation depends on the type of operating system. 
 
-To install on ubuntu:
+##  Install on ubuntu.
+For general installation guideline [GNS3 Installation Documentation](https://docs.gns3.com/1QXVIihk7dsOL7Xr7Bmz4zRzTsJ02wklfImGuHwTlaA4/)
 
     sudo apt-get update
     sudo apt-get upgrade
