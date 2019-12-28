@@ -37,9 +37,10 @@ The full releases as on the gns3 github page can be found here :
 One could download the release from the github page and install as below:
 
 
-    # it is preferable or advisable to pip install the gns3-server and not install from source as below
-    # one could install the requirement however
-    # For  the gui go to the gns3-gui folder and install dependencies and install:
+  
+    # For  the gui go to the gns3-gui/server folder  install:
+    # In my case, gns3-server was installed using apt-get and client from source like below
+    # the server requirement file was installed to ensure everything is fine
     sudo pip3 install -r requirements.txt
     sudo python3 setup.py install
 
