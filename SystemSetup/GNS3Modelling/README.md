@@ -19,7 +19,7 @@ For general installation guideline [GNS3 Installation Documentation](https://doc
     sudo apt-get install gns3-iou
 
 
-One will find the PPA in the link below : (so one can check if there is release available for one's version of ubuntu )
+The PPA is in the link below : (so it is possible to verify if there is release available for one's version of ubuntu )
 
 [Personal Package Archives (PPA)](http://ppa.launchpad.net/gns3/ppa/ubuntu/pool/main/g/)
 
