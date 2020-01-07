@@ -15,8 +15,8 @@ cybersecurity. ML. cyberML
 --------------------------------
 
   1. GNS3 
-  2. Alpine Linux Docker Image (Tensorflow, pyshark,pandas modules included )
-  3. Ubuntu Linux Docker Image (Tensorflow, pyshark,pandas, keras modules included )
+  2. Alpine Linux Docker Image (with Tensorflow, pyshark,pandas modules  )
+  3. Ubuntu Linux Docker Image (with Tensorflow, pyshark,pandas, keras modules  )
  
 
 
