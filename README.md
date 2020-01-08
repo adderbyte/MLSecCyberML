@@ -24,7 +24,7 @@ cybersecurity. ML. cyberML
          Set Up Two
 --------------------------------
 
-  1. Contiki OS
+  1. Contiki OS Cooja Simulator
   2. Alpine Linux (Tensorflow, pyshark,pandas modules included )
   
   
@@ -33,4 +33,4 @@ cybersecurity. ML. cyberML
          Set Up Three
 -----------------------------
 
-In progress
+Linking cooja to GNS3 or the other way round
