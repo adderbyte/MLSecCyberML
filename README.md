@@ -18,6 +18,12 @@ cybersecurity. ML. cyberML
   2. Alpine Linux Docker Image (with Tensorflow, pyshark,pandas modules  )
   3. Ubuntu Linux Docker Image (with Tensorflow, pyshark,pandas, keras modules  )
  
+ -----------------------
+ Dataset for Training
+ --------------------
+ 
+  1. [BotNet Dataset](https://www.unb.ca/cic/datasets/botnet.html)
+  2. [Bot-IoT](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/bot_iot.php)
 
 
 ---------------------------
