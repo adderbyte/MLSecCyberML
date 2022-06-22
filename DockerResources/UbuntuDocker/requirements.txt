@@ -4,7 +4,7 @@ pyshark
 sklearn
 scipy 
 pandas==0.23.4 
-numpy==1.16.2
+numpy==1.22.0
 tensorflow==1.15.0
 conda
 graphviz
